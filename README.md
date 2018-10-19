@@ -1,5 +1,7 @@
 # OpenVPN for Docker
 
+[![GuardRails badge](https://badges.production.guardrails.io/moul/dockvpn.svg)](https://www.guardrails.io)
+
 Quick instructions:
 
 ```bash
